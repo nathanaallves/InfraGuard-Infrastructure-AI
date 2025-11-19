@@ -25,6 +25,7 @@ Este README segue exatamente as exigências do Challenge.
 
 O InfraGuard é um agente inteligente desenvolvido no Azure AI Foundry com foco em monitoramento, análise e gestão de infraestrutura de TI. Ele calcula automaticamente o Índice de Saúde da Infraestrutura (IHI), gera recomendações técnicas, armazena dados no Azure e envia um relatório mensal automático ao gestor.
 
+```text
 InfraGuard-Infrastructure-AI
 │
 ├── README.md
@@ -42,6 +43,7 @@ InfraGuard-Infrastructure-AI
     ├── agent.json
     └── actions/
         └── calcular_consumo.yaml
+```
 
 
 ---
