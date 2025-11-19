@@ -6,18 +6,16 @@ Monitoramento automatizado, análise inteligente e geração de relatórios mens
 
 ---
 
-## 📌 Sobre o Challenge
-O InfraGuard é um agente inteligente desenvolvido no Azure AI Foundry com foco em monitoramento, análise e gestão de infraestrutura de TI. Ele calcula automaticamente o Índice de Saúde da Infraestrutura (IHI), gera recomendações técnicas, armazena dados no Azure e envia um relatório mensal automático ao gestor.
+## 📌 Objetivo do Challenge
 
 O objetivo é criar uma solução real, prática e aplicável para equipes de infraestrutura, utilizando IA para previsão, automação e insights operacionais.
 
-O desafio exige:
-- Criação de um agente funcional no AI Foundry  
-- Integração com serviços do Azure  
-- Ação real funcionando  
-- Arquitetura documentada  
-- Relatório automatizado  
-- Repositório público completo  
+Repositório público GitHub com README completo
+Prints do passo a passo
+Agente funcional no Foundry
+Ação personalizada de cálculo
+Fluxo final funcionando no Azure
+Entrega dentro do prazo
 
 Este README segue exatamente as exigências do Challenge.
 
@@ -25,22 +23,18 @@ Este README segue exatamente as exigências do Challenge.
 
 ## 📌 Descrição do Projeto
 
-O **InfraGuard** é um agente inteligente desenvolvido no **AI Foundry**, integrado ao ecossistema **Microsoft Azure**, criado para automatizar o monitoramento e a gestão de infraestrutura.
-
-Ele coleta métricas, analisa anomalias, executa automações e envia um **relatório mensal em PDF** ao responsável técnico — incluindo custos, consumo e alertas críticos.
+O InfraGuard é um agente inteligente desenvolvido no Azure AI Foundry com foco em monitoramento, análise e gestão de infraestrutura de TI. Ele calcula automaticamente o Índice de Saúde da Infraestrutura (IHI), gera recomendações técnicas, armazena dados no Azure e envia um relatório mensal automático ao gestor.
 
 ---
 
 ## 🚀 Funcionalidades
 
-- Coleta automática de métricas de VMs, storage e rede  
-- Análise inteligente de anomalias  
-- Recomendações automáticas da IA  
-- Relatório mensal em PDF  
-- Envio por e-mail via Logic Apps  
-- Consulta a métricas e custos via Azure Functions  
-- Integração direta ao agente no AI Foundry  
-- Arquitetura segura, modular e escalável  
+- Cálculo automático do Índice de Saúde da Infraestrutura (IHI)
+- Diagnóstico inteligente baseado em métricas fornecidas
+- Classificação de criticidade
+- Recomendações técnicas automáticas
+- Armazenamento dos dados no Azure
+- Relatório mensal automático via e-mail com insights
 
 ---
 
