@@ -1,6 +1,6 @@
 # InfraGuard – Gestão Inteligente de Infraestrutura
-## Repositório: `InfraGuard-Infrastructure-AI`  
-## Projeto desenvolvido para o Challenge **Infra Frontier Girls*** 
+### Repositório: InfraGuard-Infrastructure-AI  
+### Projeto desenvolvido para o Challenge ***Infra Frontier Girls*** 
 
 Monitoramento automatizado, análise inteligente e geração de relatórios mensais utilizando AI Foundry e Microsoft Azure.
 
