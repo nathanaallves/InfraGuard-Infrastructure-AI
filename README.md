@@ -7,8 +7,9 @@ Monitoramento automatizado, análise inteligente e geração de relatórios mens
 ---
 
 ## 📌 Sobre o Challenge
+O InfraGuard é um agente inteligente desenvolvido no Azure AI Foundry com foco em monitoramento, análise e gestão de infraestrutura de TI. Ele calcula automaticamente o Índice de Saúde da Infraestrutura (IHI), gera recomendações técnicas, armazena dados no Azure e envia um relatório mensal automático ao gestor.
 
-Este projeto foi criado especialmente para o **Challenge Infra Frontier Girls**, com foco em automação, engenharia de infraestrutura e uso de IA aplicada à observabilidade e governança de ambientes de TI.
+O objetivo é criar uma solução real, prática e aplicável para equipes de infraestrutura, utilizando IA para previsão, automação e insights operacionais.
 
 O desafio exige:
 - Criação de um agente funcional no AI Foundry  
