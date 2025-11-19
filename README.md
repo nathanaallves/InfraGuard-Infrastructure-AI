@@ -1,6 +1,6 @@
 # InfraGuard – Gestão Inteligente de Infraestrutura
-## *Repositório: `InfraGuard-Infrastructure-AI`*  
-## *Projeto desenvolvido para o Challenge **Infra Frontier Girls***  
+## Repositório: `InfraGuard-Infrastructure-AI`  
+## Projeto desenvolvido para o Challenge **Infra Frontier Girls*** 
 
 Monitoramento automatizado, análise inteligente e geração de relatórios mensais utilizando AI Foundry e Microsoft Azure.
 
@@ -59,9 +59,6 @@ Logic Apps → E-mail
 
 ---
 
-
----
-
 ## 🛠️ Componentes Utilizados
 
 | Componente | Função |
@@ -86,22 +83,5 @@ Logic Apps → E-mail
 - Relatório mensal automatizado ✔  
 - Arquitetura documentada ✔  
 
----
 
-## 🧠 Passo a Passo – AI Foundry
-
-### 1. Criar o Agente
-- Nome: **InfraGuard**
-- Tipo: *Standard – Developer*
-- Descrição: “Agente inteligente para automação e observabilidade de infraestrutura.”
-
-### 2. Criar a Ação
-- Nome: **ConsultarInfraAzure**
-- Método: POST  
-- Endpoint: API Management  
-- JSON de entrada:
-```json
-{
-  "resource": "vm",
-  "periodo": "mensal"
 }
