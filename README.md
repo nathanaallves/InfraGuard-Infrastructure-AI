@@ -79,4 +79,3 @@ Logic Apps → E-mail
 - Arquitetura documentada ✔  
 
 
-}
