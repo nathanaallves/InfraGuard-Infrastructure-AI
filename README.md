@@ -60,7 +60,7 @@ InfraGuard-Infrastructure-AI
 ---
 
 ## 🏗️ Arquitetura da Solução
-
+```text
 Usuário → AI Foundry Agent → Azure API Management
 ↓
 Azure Function (Python)
@@ -72,6 +72,7 @@ Processamento e Análise
 Azure Storage → Geração de PDF
 ↓
 Logic Apps → E-mail
+```
 
 ---
 
