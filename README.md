@@ -28,16 +28,21 @@ O InfraGuard é um agente inteligente desenvolvido no Azure AI Foundry com foco 
 InfraGuard-Infrastructure-AI
 │
 ├── README.md
+│
 ├── docs/
-│   ├── 
-│   ├── 
-│   └── 
+│   ├── arquitetura.md
+│   ├── fluxos.md
+│   └── referencias.md
 │
 ├── Scripts/
-│   └── 
+│   ├── automacoes.ps1
+│   └── consumo.py
 │
 └── agent/
-    └── 
+    ├── agent.json
+    └── actions/
+        └── calcular_consumo.yaml
+
 
 ---
 
